@@ -12,7 +12,7 @@
 
 ## 📖 About me
 
-* 💻 I'm a full stack web developer
+* 💻 Software Engineer Intern @ QuintoAndar
 * 🎓 I'm a Computer Science student at the 6th semester
 
 ## 📈 Github Stats

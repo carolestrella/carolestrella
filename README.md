@@ -1,7 +1,3 @@
-<p align="center">
-<a href="#"><img width="25%" height="auto" src="https://www.flaticon.com/svg/static/icons/svg/2472/2472122.svg" height="175px"/></a>
-</p>
-
 <h3 align="center">Hey there, I'm Carolina Estrella</h3>
 
 <p align="center">

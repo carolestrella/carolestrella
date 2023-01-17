@@ -7,7 +7,7 @@
 
 ## 📖 About me
 
-* 💻 Software Engineer Intern @ QuintoAndar
+* 💻 Software Engineer @ QuintoAndar
 * 🎓 I'm a Computer Science student at the 9th semester
 
 ## 📈 Github Stats

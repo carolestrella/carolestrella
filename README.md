@@ -8,4 +8,4 @@
 ## 📖 About me
 
 * 💻 Software Engineer @ QuintoAndar
-* 🎓 I'm a Computer Science student at the 9th semester
+* 🎓 Graduated on Computer Science at University of Brasília

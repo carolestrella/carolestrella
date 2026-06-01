@@ -7,5 +7,6 @@
 
 ## 📖 About me
 
-* 💻 Software Engineer @ QuintoAndar
+* 💻 Software Engineer | Full-Stack & Mobile Development 
 * 🎓 Graduated on Computer Science at University of Brasília
+* 📝 Published research: <a href="https://ieeexplore.ieee.org/document/10785333">Long Short-Term Memory Approaches for Weather Forecasting from Local Stations</a>
